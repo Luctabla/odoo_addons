@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3ca917d-8333-4f64-bd99-a73bb9c2596d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/doc/RELEASE_NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/doc/RELEASE_NOTES.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/i18n/ar.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/i18n/ar.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/i18n/es.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/i18n/es.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/i18n/fr.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/i18n/fr.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_aged_partner.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_aged_partner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_aged_partner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_aged_partner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_financial.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_financial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_financial.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_financial.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_general_ledger.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_general_ledger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_general_ledger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_general_ledger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_journal.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_journal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_journal_audit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_journal_audit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_journal_entries.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_journal_entries.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_partner_ledger.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_partner_ledger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_partner_ledger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_partner_ledger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_tax.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_tax.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_tax.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_tax.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_trial_balance.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_trial_balance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/reports/report_trial_balance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/reports/report_trial_balance.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/security/ir.model.access.csv" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/security/ir.model.access.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/security/security.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/security/security.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/account_reports.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/account_reports.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/aged_partner_balance_filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/aged_partner_balance_filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/aged_partner_balance_report.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/aged_partner_balance_report.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/banner.gif" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/banner.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/general_ledger_filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/general_ledger_filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/general_ledger_report.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/general_ledger_report.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/journal_audit_filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/journal_audit_filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/journal_audit_report.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/journal_audit_report.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/odoo_mates.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/odoo_mates.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/partner_ledger_filter.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/partner_ledger_filter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/static/description/partner_ledger_report.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/static/description/partner_ledger_report.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/views/account_pdf_reports.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/views/account_pdf_reports.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/views/account_reports_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/views/account_reports_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/views/report_templates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/views/report_templates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/account_financial_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/account_financial_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/account_general_ledger.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/account_general_ledger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/account_journal_audit.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/account_journal_audit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/account_partner_ledger.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/account_partner_ledger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/account_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/account_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/account_report_common_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/account_report_common_account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/account_report_common_partner.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/account_report_common_partner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/account_tax_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/account_tax_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/account_trial_balance.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/account_trial_balance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/aged_partner.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/aged_partner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/aged_partner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/aged_partner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/balance_sheet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/balance_sheet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/general_ledger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/general_ledger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/journal_audit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/journal_audit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/partner_ledger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/partner_ledger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/profit_and_loss.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/profit_and_loss.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/tax_report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/tax_report.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/accounting_pdf_reports/wizards/trial_balance.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/accounting_pdf_reports/wizards/trial_balance.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/README.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/doc/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/doc/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/models/account_fiscal_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/models/account_fiscal_year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/models/account_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/models/account_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/security/account_security.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/security/account_security.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/security/ir.model.access.csv" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/security/ir.model.access.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/account_reports.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/account_reports.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/asset_management.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/asset_management.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/bank_statement.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/bank_statement.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/banner3png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/banner3png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/banner4.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/banner4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/banner_new.gif" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/banner_new.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/budget_management.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/budget_management.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/fiscal_year.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/fiscal_year.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/static/description/odoo_mates.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/static/description/odoo_mates.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/views/account.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/views/account.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/views/account_type.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/views/account_type.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/views/fiscal_year.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/views/fiscal_year.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/wizard/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/wizard/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/wizard/change_lock_date.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/wizard/change_lock_date.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_accountant/wizard/change_lock_date.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_accountant/wizard/change_lock_date.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/data/account_asset_data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/data/account_asset_data.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/models/account.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/models/account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/models/account_asset.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/models/account_asset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/models/account_invoice.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/models/account_invoice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/models/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/models/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/report/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/report/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/report/account_asset_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/report/account_asset_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/report/account_asset_report_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/report/account_asset_report_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/security/account_asset_security.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/security/account_asset_security.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/security/ir.model.access.csv" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/security/ir.model.access.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/static/description/asset_types.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/static/description/asset_types.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/static/description/assets.gif" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/static/description/assets.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/static/description/assets.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/static/description/assets.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/static/description/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/static/description/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/static/description/icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/static/description/icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/static/description/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/static/description/odoo_mates.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/static/description/odoo_mates.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/static/src/js/account_asset.js" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/static/src/js/account_asset.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/static/src/scss/account_asset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/static/src/scss/account_asset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/static/tests/account_asset_tests.js" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/static/tests/account_asset_tests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/test/account_asset_demo_test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/test/account_asset_demo_test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/tests/test_account_asset.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/tests/test_account_asset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/views/account_asset_templates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/views/account_asset_templates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/views/account_asset_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/views/account_asset_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/views/account_invoice_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/views/account_invoice_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/views/product_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/views/product_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/wizard/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/wizard/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/wizard/asset_depreciation_confirmation_wizard.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/wizard/asset_depreciation_confirmation_wizard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/wizard/asset_depreciation_confirmation_wizard_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/wizard/asset_depreciation_confirmation_wizard_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/wizard/asset_modify.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/wizard/asset_modify.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_asset/wizard/asset_modify_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_asset/wizard/asset_modify_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/demo/partner_bank.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/demo/partner_bank.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/account_bank_statement_import.pot" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/account_bank_statement_import.pot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/af.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/af.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/am.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/am.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/ar.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/ar.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/az.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/az.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/az_AZ.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/az_AZ.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/bg.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/bg.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/bn.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/bn.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/bs.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/bs.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/ca.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/ca.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/cs.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/cs.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/da.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/da.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/de.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/de.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/el.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/el.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/en_AU.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/en_AU.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/en_GB.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/en_GB.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/es.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/es.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/es_BO.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/es_BO.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/es_CL.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/es_CL.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/es_CO.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/es_CO.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/es_CR.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/es_CR.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/es_DO.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/es_DO.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/es_EC.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/es_EC.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/es_PE.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/es_PE.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/es_PY.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/es_PY.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/es_VE.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/es_VE.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/et.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/et.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/eu.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/eu.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/fa.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/fa.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/fi.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/fi.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/fo.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/fo.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/fr.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/fr.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/fr_BE.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/fr_BE.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/fr_CA.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/fr_CA.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/gl.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/gl.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/gu.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/gu.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/he.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/he.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/hr.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/hr.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/hu.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/hu.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/id.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/id.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/is.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/is.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/it.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/it.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/ja.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/ja.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/ka.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/ka.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/kab.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/kab.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/km.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/km.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/ko.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/ko.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/lb.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/lb.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/lo.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/lo.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/lt.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/lt.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/lv.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/lv.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/mk.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/mk.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/ml.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/ml.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/mn.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/mn.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/my.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/my.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/nb.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/nb.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/ne.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/ne.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/nl.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/nl.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/nl_BE.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/nl_BE.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/pl.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/pl.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/pt.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/pt.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/pt_BR.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/pt_BR.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/ro.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/ro.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/ru.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/ru.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/sk.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/sk.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/sl.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/sl.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/sq.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/sq.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/sr.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/sr.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/sr@latin.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/sr@latin.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/sv.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/sv.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/ta.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/ta.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/te.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/te.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/th.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/th.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/tr.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/tr.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/ug.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/ug.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/uk.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/uk.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/uz.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/uz.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/vi.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/vi.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/zh_CN.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/zh_CN.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/i18n/zh_TW.po" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/i18n/zh_TW.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/models/account_bank_statement_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/models/account_bank_statement_import.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/models/account_journal.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/models/account_journal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/sample_files/Import_Sample.csv" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/sample_files/Import_Sample.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/sample_files/Import_Sample.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/sample_files/Import_Sample.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/security/ir.model.access.csv" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/security/ir.model.access.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/static/description/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/static/description/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/static/description/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/static/description/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/static/description/icon_src.svg" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/static/description/icon_src.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/static/src/js/account_bank_statement_import.js" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/static/src/js/account_bank_statement_import.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/views/account_bank_statement_import_templates.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/views/account_bank_statement_import_templates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/views/account_bank_statement_import_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/views/account_bank_statement_import_view.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/wizard/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/wizard/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/wizard/journal_creation.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/wizard/journal_creation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/wizard/journal_creation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/wizard/journal_creation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_bank_statement_import/wizard/setup_wizards.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_bank_statement_import/wizard/setup_wizards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/__manifest__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/data/account_budget_demo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/data/account_budget_demo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/models/account_analytic_account.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/models/account_analytic_account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/models/account_budget.py" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/models/account_budget.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/security/account_budget_security.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/security/account_budget_security.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/security/ir.model.access.csv" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/security/ir.model.access.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/static/description/banner.gif" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/static/description/banner.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/static/description/budget_analysis_pivot.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/static/description/budget_analysis_pivot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/static/description/budgetary_postions.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/static/description/budgetary_postions.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/static/description/budgets.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/static/description/budgets.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/static/description/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/static/description/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/static/description/icon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/static/description/icon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/static/description/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/static/description/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/static/description/odoo_mates.png" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/static/description/odoo_mates.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/views/account_analytic_account_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/views/account_analytic_account_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/views/account_budget_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/views/account_budget_views.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/om_account_accountant-14.0.6.5.0/om_account_budget/views/res_config_settings_views.xml" beforeDir="false" afterPath="$PROJECT_DIR$/addons/om_account_budget/views/res_config_settings_views.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zvxC7s44AZ1CWoXa377ec4qRjq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/addons" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3ca917d-8333-4f64-bd99-a73bb9c2596d" name="Default Changelist" comment="" />
+      <created>1635042232705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635042232705</updated>
+      <workItem from="1635042234468" duration="2730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="342" width="561" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635044081662">
+      <screen x="50" y="27" width="1870" height="1053" />
+    </state>
+    <state x="699" y="342" width="561" height="403" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/50.27.1870.1053@50.27.1870.1053" timestamp="1635044081662" />
+  </component>
+</project>
