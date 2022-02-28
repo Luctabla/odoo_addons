@@ -7,19 +7,19 @@ services:
     volumes:
 #    - ./config:/etc/odoo
     - ../addons:/mnt/extra-addons
-#    environment:
-#      - HOST=mydb
-#      - USER=odoo
-#      - PASSWORD=myodoo
-    env_file: .env
+    environment:
+      - HOST=mydb
+      - USER=odoo
+      - PASSWORD=myodoo
+#    env_file: .env
 
-#  mydb:
-#    image: postgres:13
-#    environment:
-#      - POSTGRES_DB=postgres
-#      - POSTGRES_PASSWORD=myodoo
-#      - POSTGRES_USER=odoo
-#    volumes:
-#    - ./backups:/backups
-#    ports:
-#      - 54320:5432
+  mydb:
+    image: postgres:13
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_PASSWORD=myodoo
+      - POSTGRES_USER=odoo
+    volumes:
+    - ./backups:/backups
+    ports:
+      - 54320:5432
